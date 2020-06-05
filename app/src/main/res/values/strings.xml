@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TTS</string>
+    <string name="tts">Text to Speech</string>
+    <string name="speak_out">Przeczytaj</string>
+    <string name="text_to_read">Wprowadź text</string>
+    <string name="slow">Wolno</string>
+    <string name="normal">Normalnie</string>
+    <string name="fast">Szybko</string>
+    <string name="read_from_file">Wczytaj z pliku</string>
+    <string name="next_part">Wczytaj kolejny fragment</string>
+</resources>
